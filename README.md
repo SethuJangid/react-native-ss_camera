@@ -5,13 +5,13 @@ my first module
 ## Installation
 
 ```sh
-npm install react-native-sethu-module
+npm install react-native-sethu-camera
 ```
 
 ## Usage
 
 ```js
-import { multiply } from 'react-native-sethu-module';
+import { multiply } from 'react-native-sethu-camera';
 
 // ...
 
